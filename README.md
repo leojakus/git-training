@@ -1,2 +1,2 @@
 # git-training
-This is a training repo for git handling - branches, remote handling, etc.
+This is a training repo for git education - branches, remote handling, etc.
